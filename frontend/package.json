@@ -1,0 +1,14 @@
+{
+  "name": "tareas-frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server ."
+  },
+  "author": "jupegarnica",
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
